@@ -1,0 +1,22 @@
+html, body, #wrapper {
+   height:100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   background-color: #000000;
+}
+a {
+	color: #ffffff;
+}
+.tool_menu {
+	font-size: 24px;
+}
+#wrapper td {
+   vertical-align: middle;
+   text-align: center;
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
